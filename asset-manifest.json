@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robo-Buddy/static/css/main.58c832f0.chunk.css",
+    "main.js": "/Robo-Buddy/static/js/main.5016595f.chunk.js",
+    "main.js.map": "/Robo-Buddy/static/js/main.5016595f.chunk.js.map",
+    "runtime-main.js": "/Robo-Buddy/static/js/runtime-main.fdbbaf22.js",
+    "runtime-main.js.map": "/Robo-Buddy/static/js/runtime-main.fdbbaf22.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Robo-Buddy/static/css/2.31461e4f.chunk.css",
+    "static/js/2.26a652b9.chunk.js": "/Robo-Buddy/static/js/2.26a652b9.chunk.js",
+    "static/js/2.26a652b9.chunk.js.map": "/Robo-Buddy/static/js/2.26a652b9.chunk.js.map",
+    "static/js/3.bb528daa.chunk.js": "/Robo-Buddy/static/js/3.bb528daa.chunk.js",
+    "static/js/3.bb528daa.chunk.js.map": "/Robo-Buddy/static/js/3.bb528daa.chunk.js.map",
+    "index.html": "/Robo-Buddy/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Robo-Buddy/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.58c832f0.chunk.css.map": "/Robo-Buddy/static/css/main.58c832f0.chunk.css.map",
+    "static/js/2.26a652b9.chunk.js.LICENSE.txt": "/Robo-Buddy/static/js/2.26a652b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdbbaf22.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.26a652b9.chunk.js",
+    "static/css/main.58c832f0.chunk.css",
+    "static/js/main.5016595f.chunk.js"
+  ]
+}
